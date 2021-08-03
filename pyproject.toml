@@ -1,0 +1,7 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "pika",
+]
+build-backend = "setuptools.build_meta"
