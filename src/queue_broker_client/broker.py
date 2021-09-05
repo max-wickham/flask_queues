@@ -11,8 +11,8 @@ class Broker:
     channel: BlockingChannel
     queues = {}
 
-    def __init__(self,app):
-        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=app.config.get("QUEUE_BROKER_URI")))
+    def __init__(self,url):
+        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=url))
         self.channel = self.connection.channel()
 
 

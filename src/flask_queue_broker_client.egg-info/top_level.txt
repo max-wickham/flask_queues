@@ -1,1 +1,1 @@
-flask_queue_broker_client
+queue_broker_client
