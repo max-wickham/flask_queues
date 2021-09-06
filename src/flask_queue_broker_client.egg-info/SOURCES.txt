@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-setup.cfg
-src/flask_queue_broker_client.egg-info/PKG-INFO
-src/flask_queue_broker_client.egg-info/SOURCES.txt
-src/flask_queue_broker_client.egg-info/dependency_links.txt
-src/flask_queue_broker_client.egg-info/top_level.txt
-src/queue_broker_client/__init__.py
-src/queue_broker_client/broker.py

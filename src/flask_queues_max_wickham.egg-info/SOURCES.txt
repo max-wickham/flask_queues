@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-setup.cfg
-src/broker_package/__init__.py
-src/broker_package/broker.py
-src/flask_queues_max_wickham.egg-info/PKG-INFO
-src/flask_queues_max_wickham.egg-info/SOURCES.txt
-src/flask_queues_max_wickham.egg-info/dependency_links.txt
-src/flask_queues_max_wickham.egg-info/top_level.txt

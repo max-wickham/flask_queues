@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: flask-queues-max-wickham
-Version: 0.0.2
+Name: queue-broker-client
+Version: 0.0.5
 Summary: A package to make the creation of queue consumers easier
-Home-page: https://github.com/max-wickham/queue-broker
+Home-page: https://github.com/max-wickham/flask_queues
 Author: Max Wickham
 Author-email: maxwickhammonro@gmail.com
 License: UNKNOWN
